@@ -1,3 +1,2 @@
 # Hospital-Patient-Management-System
-A SQL based project
 The Hospital Patient Management System is a SQL-based database project designed to manage hospital data efficiently. It includes the creation of a relational database with multiple tables such as patients, doctors, appointments, departments, billing, and room allocation. The project demonstrates data retrieval, modification, and management using SQL queries along with the implementation of triggers and stored procedures to automate certain operations and maintain data integrity.
